@@ -6797,6 +6797,7 @@ availeable->available
 availebilities->availabilities
 availebility->availability
 availeble->available
+availe->avail, available,
 availiability->availability
 availiable->available
 availibility->availability
